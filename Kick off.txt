@@ -1,0 +1,9 @@
+Project: "Automated Vulnerability Scanner & Exploiter"
+
+Goal: Build a Python tool that:
+
+    Scans a target (web app/network) for vulnerabilities.
+
+    Automates exploitation for common flaws (e.g., SQLi, XSS, weak credentials).
+
+    Generates a professional report.
