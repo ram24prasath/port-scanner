@@ -1,0 +1,8 @@
+# Standard dependencies (included in Python)
+# socket
+# threading
+# subprocess
+# datetime
+
+# Additional dependencies
+nmap  # Ensure 'nmap' is installed on the system for subprocess calls
